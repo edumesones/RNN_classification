@@ -1,5 +1,9 @@
 # redes-convolucionales
-Ejemplo de diferenciar si la imagen es perro o gato <br>
+Ejemplo de diferenciar si la imagen es perro o gato a traves de redes neuronales convolucionales<br>
+Paquetes necesarios:
+<b> keras </b> <br>
+<b> tensorflow </b>  <br>
+
 La capa de entrada de las imagenes proviene de la carpeta <b> datasets </b> donde estan las imagenes de entrenamiento y de test de perros y gatos por separado,
 por otro lado hay otra carpeta de perros y gatos para probar el modelo entrenado <br>
 La idea es mantener asi la estructura de la carpeta <br><br>
