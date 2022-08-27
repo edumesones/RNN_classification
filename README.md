@@ -1,4 +1,4 @@
-# redes-convucionales
+# redes-convolucionales
 Ejemplo de diferenciar si la imagen es perro o gato
 Esta estrcuturado en la carpeta datasets donde estan las imagenes de entrenamiento y de test de perros y gatos
 Por otro lado hay otra carpeta de perros y gatos para probar el modelo entrenado <br>
