@@ -1,6 +1,6 @@
 # redes-convolucionales
 Ejemplo de diferenciar si la imagen es perro o gato a traves de redes neuronales convolucionales<br>
-Paquetes necesarios:
+Paquetes necesarios: <br>
 <b> keras </b> <br>
 <b> tensorflow </b>  <br>
 
